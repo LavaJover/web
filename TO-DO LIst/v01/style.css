@@ -1,0 +1,12 @@
+.submit .add_btn{
+width: auto;
+position: absolute;
+top: 0px;
+left: 300px;
+background: yellow;
+}
+
+.submit{
+position: relative;
+}
+
