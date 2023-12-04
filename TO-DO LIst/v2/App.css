@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+}
+
+.btn_delete {
+  color: red;
+}
+
+.btn_add {
+  color: green;
+}
+
+.btn_edit {
+  color: blue;
+}
